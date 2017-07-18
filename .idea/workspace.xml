@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4db197f-c1a6-4388-8188-dd2c95f68f52" name="Default" comment="sklearnSGD">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/._01 - 10min.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01 - 01 Les Jardins Japonais.ogg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Downloading" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-PKG.pkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-PYZ.pyz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-PKG.pkg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-PYZ.pyz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Calculator(Oscar).exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/Coculate_the_date.exe" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Bayes.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Bayes0.649.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Decision0.614.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/MLT0.699.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/Nearest0.679.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/sklearnModel0.675.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/sklearnSGD.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/operable" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculator(Oscar).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculator(Oscar).spec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coculate_the_date.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Coculate_the_date.spec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDNN(Zhang).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/KerasDNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LSTM.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Preprocess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/Calculator(Oscar).exe.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-Analysis.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-EXE.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-PKG.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-PYZ.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out00-Tree.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/out01-Tree.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Calculator(Oscar)/warnCalculator(Oscar).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/Coculate_the_date.exe.manifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-Analysis.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-EXE.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-PKG.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-PYZ.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out00-Tree.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/out01-Tree.toc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/Coculate_the_date/warnCoculate_the_date.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calcLPCC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calculator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countDays.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/preprocess(Zhang).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnBayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnDecision.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnMLP.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnNearest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnSGD.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearnVote.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,7 +20,7 @@
       <file leaf-file-name="Preprocess.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Preprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2728">
+            <state relative-caret-position="0">
               <caret line="134" column="23" lean-forward="false" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
               <folding>
                 <element signature="e#1087#1253#0" expanded="false" />
@@ -91,7 +32,7 @@
       <file leaf-file-name="KerasDNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KerasDNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="0">
               <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -103,21 +44,31 @@
       <file leaf-file-name="KerasDNN(Zhang).py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KerasDNN(Zhang).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LSTM.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LSTM.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LSTM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
+            <state relative-caret-position="-10">
               <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,8 +127,9 @@
         <option value="$PROJECT_DIR$/sklearnNearest.py" />
         <option value="$PROJECT_DIR$/sklearnSGD.py" />
         <option value="$PROJECT_DIR$/KerasDNN.py" />
-        <option value="$PROJECT_DIR$/KerasDNN(Zhang).py" />
         <option value="$PROJECT_DIR$/LSTM.py" />
+        <option value="$PROJECT_DIR$/KerasDNN(Zhang).py" />
+        <option value="$PROJECT_DIR$/CNN.py" />
       </list>
     </option>
   </component>
@@ -186,6 +138,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -206,26 +174,25 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
+              <option name="myItemId" value="py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
+              <option name="myItemId" value="py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
+              <option name="myItemId" value="py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
+              <option name="myItemId" value="py" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -235,14 +202,16 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oscar\py" />
       <recent name="C:\Users\Oscar\Python" />
     </key>
   </component>
@@ -258,25 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LSTM">
-    <configuration default="false" name="sklearnSGD" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearnSGD.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.CNN">
     <configuration default="false" name="KerasDNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,6 +300,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,24 +383,27 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sklearnSGD" />
-      <item index="1" class="java.lang.String" itemvalue="Python.KerasDNN" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sklearnBayes" />
-      <item index="3" class="java.lang.String" itemvalue="Python.KerasDNN(Zhang)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.LSTM" />
+      <item index="0" class="java.lang.String" itemvalue="Python.KerasDNN" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sklearnBayes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.KerasDNN(Zhang)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.LSTM" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CNN" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.LSTM" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CNN" />
         <item index="1" class="java.lang.String" itemvalue="Python.KerasDNN(Zhang)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.KerasDNN" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sklearnBayes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sklearnSGD" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LSTM" />
+        <item index="3" class="java.lang.String" itemvalue="Python.KerasDNN" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sklearnBayes" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Oscar\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -454,15 +426,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154311" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23298033" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32055214" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36792454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36196318" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3113497" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3113497" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39779875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -471,7 +445,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -489,23 +462,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Preprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1087#1253#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator(Oscar).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -753,7 +709,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Preprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2728">
+        <state relative-caret-position="0">
           <caret line="134" column="23" lean-forward="false" selection-start-line="134" selection-start-column="23" selection-end-line="134" selection-end-column="23" />
           <folding>
             <element signature="e#1087#1253#0" expanded="false" />
@@ -814,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="693" column="34" lean-forward="true" selection-start-line="693" selection-start-column="34" selection-end-line="693" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -836,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/KerasDNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="0">
           <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
@@ -844,21 +798,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KerasDNN(Zhang).py">
+    <entry file="file://$PROJECT_DIR$/LSTM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="85" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-10">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LSTM.py">
+    <entry file="file://$PROJECT_DIR$/KerasDNN(Zhang).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        <state relative-caret-position="133">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-762174762/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="149" column="4" lean-forward="false" selection-start-line="149" selection-start-column="4" selection-end-line="149" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
